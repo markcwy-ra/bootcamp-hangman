@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/bootcamp-hangman/static/css/main.e91b9f42.css",
+    "main.css": "/bootcamp-hangman/static/css/main.ec1d8a65.css",
     "main.js": "/bootcamp-hangman/static/js/main.561b516e.js",
     "static/media/ClashGrotesk-Medium.ttf": "/bootcamp-hangman/static/media/ClashGrotesk-Medium.b069c91b9e31d834f2d9.ttf",
     "static/media/ClashGrotesk-Semibold.ttf": "/bootcamp-hangman/static/media/ClashGrotesk-Semibold.d583b8efe538269e0524.ttf",
@@ -21,11 +21,11 @@
     "static/media/ClashGrotesk-Bold.woff2": "/bootcamp-hangman/static/media/ClashGrotesk-Bold.b8dfad4ca28d511259f7.woff2",
     "static/media/ClashGrotesk-Extralight.woff2": "/bootcamp-hangman/static/media/ClashGrotesk-Extralight.20c0ab584230daf91a5e.woff2",
     "index.html": "/bootcamp-hangman/index.html",
-    "main.e91b9f42.css.map": "/bootcamp-hangman/static/css/main.e91b9f42.css.map",
+    "main.ec1d8a65.css.map": "/bootcamp-hangman/static/css/main.ec1d8a65.css.map",
     "main.561b516e.js.map": "/bootcamp-hangman/static/js/main.561b516e.js.map"
   },
   "entrypoints": [
-    "static/css/main.e91b9f42.css",
+    "static/css/main.ec1d8a65.css",
     "static/js/main.561b516e.js"
   ]
 }
