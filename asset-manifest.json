@@ -1,16 +1,31 @@
 {
   "files": {
-    "main.css": "/bootcamp-hangman/static/css/main.d1992687.css",
+    "main.css": "/bootcamp-hangman/static/css/main.61f78443.css",
     "main.js": "/bootcamp-hangman/static/js/main.561b516e.js",
-    "static/media/ClashGrotesk-Variable.ttf": "/bootcamp-hangman/static/media/ClashGrotesk-Variable.6eccb344b604e67e2145.ttf",
-    "static/media/ClashGrotesk-Variable.woff2": "/bootcamp-hangman/static/media/ClashGrotesk-Variable.f76a6db090c2148eef41.woff2",
-    "static/media/ClashGrotesk-Variable.woff": "/bootcamp-hangman/static/media/ClashGrotesk-Variable.90926bf4b535bb9cf508.woff",
+    "static/media/ClashGrotesk-Medium.ttf": "/bootcamp-hangman/static/media/ClashGrotesk-Medium.b069c91b9e31d834f2d9.ttf",
+    "static/media/ClashGrotesk-Semibold.ttf": "/bootcamp-hangman/static/media/ClashGrotesk-Semibold.d583b8efe538269e0524.ttf",
+    "static/media/ClashGrotesk-Extralight.ttf": "/bootcamp-hangman/static/media/ClashGrotesk-Extralight.b5d66aba1e9fd9f79706.ttf",
+    "static/media/ClashGrotesk-Light.ttf": "/bootcamp-hangman/static/media/ClashGrotesk-Light.592714378da042e0dfc6.ttf",
+    "static/media/ClashGrotesk-Regular.ttf": "/bootcamp-hangman/static/media/ClashGrotesk-Regular.4a7d0a7e0185e0218b72.ttf",
+    "static/media/ClashGrotesk-Bold.ttf": "/bootcamp-hangman/static/media/ClashGrotesk-Bold.934ff377893b6b073594.ttf",
+    "static/media/ClashGrotesk-Semibold.woff": "/bootcamp-hangman/static/media/ClashGrotesk-Semibold.4be5863c2b5c25c94857.woff",
+    "static/media/ClashGrotesk-Regular.woff": "/bootcamp-hangman/static/media/ClashGrotesk-Regular.0ac733f17a9f3052a4c3.woff",
+    "static/media/ClashGrotesk-Medium.woff": "/bootcamp-hangman/static/media/ClashGrotesk-Medium.df74bc405e3ab3fe5d15.woff",
+    "static/media/ClashGrotesk-Light.woff": "/bootcamp-hangman/static/media/ClashGrotesk-Light.80a09e3f1af0f92ff6ad.woff",
+    "static/media/ClashGrotesk-Bold.woff": "/bootcamp-hangman/static/media/ClashGrotesk-Bold.ce29d2bf87940f3b863a.woff",
+    "static/media/ClashGrotesk-Extralight.woff": "/bootcamp-hangman/static/media/ClashGrotesk-Extralight.22ce76c946339942e181.woff",
+    "static/media/ClashGrotesk-Semibold.woff2": "/bootcamp-hangman/static/media/ClashGrotesk-Semibold.cbba0f20140f7d768ed5.woff2",
+    "static/media/ClashGrotesk-Regular.woff2": "/bootcamp-hangman/static/media/ClashGrotesk-Regular.55923d35fe63712d4824.woff2",
+    "static/media/ClashGrotesk-Light.woff2": "/bootcamp-hangman/static/media/ClashGrotesk-Light.4cc85dfba7d49b0cdb9c.woff2",
+    "static/media/ClashGrotesk-Medium.woff2": "/bootcamp-hangman/static/media/ClashGrotesk-Medium.70562d8c4c3ea4b66dd6.woff2",
+    "static/media/ClashGrotesk-Bold.woff2": "/bootcamp-hangman/static/media/ClashGrotesk-Bold.b8dfad4ca28d511259f7.woff2",
+    "static/media/ClashGrotesk-Extralight.woff2": "/bootcamp-hangman/static/media/ClashGrotesk-Extralight.20c0ab584230daf91a5e.woff2",
     "index.html": "/bootcamp-hangman/index.html",
-    "main.d1992687.css.map": "/bootcamp-hangman/static/css/main.d1992687.css.map",
+    "main.61f78443.css.map": "/bootcamp-hangman/static/css/main.61f78443.css.map",
     "main.561b516e.js.map": "/bootcamp-hangman/static/js/main.561b516e.js.map"
   },
   "entrypoints": [
-    "static/css/main.d1992687.css",
+    "static/css/main.61f78443.css",
     "static/js/main.561b516e.js"
   ]
 }
